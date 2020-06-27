@@ -1,0 +1,18 @@
+c:\users\dzeki\documents\visual studio 2015\Projects\letsgopingpong\letsgopingpong\bin\Debug\letsgopingpong.exe.config
+c:\users\dzeki\documents\visual studio 2015\Projects\letsgopingpong\letsgopingpong\bin\Debug\letsgopingpong.exe
+c:\users\dzeki\documents\visual studio 2015\Projects\letsgopingpong\letsgopingpong\bin\Debug\letsgopingpong.pdb
+c:\users\dzeki\documents\visual studio 2015\Projects\letsgopingpong\letsgopingpong\obj\Debug\letsgopingpong.csprojResolveAssemblyReference.cache
+c:\users\dzeki\documents\visual studio 2015\Projects\letsgopingpong\letsgopingpong\obj\Debug\letsgopingpong.Form1.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\letsgopingpong\letsgopingpong\obj\Debug\letsgopingpong.Properties.Resources.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\letsgopingpong\letsgopingpong\obj\Debug\letsgopingpong.csproj.GenerateResource.Cache
+c:\users\dzeki\documents\visual studio 2015\Projects\letsgopingpong\letsgopingpong\obj\Debug\letsgopingpong.exe
+c:\users\dzeki\documents\visual studio 2015\Projects\letsgopingpong\letsgopingpong\obj\Debug\letsgopingpong.pdb
+C:\Users\Dzeki\Documents\Visual Studio 2015\Projects\ispit priprema jun\letsgopingpong\letsgopingpong\bin\Debug\letsgopingpong.exe.config
+C:\Users\Dzeki\Documents\Visual Studio 2015\Projects\ispit priprema jun\letsgopingpong\letsgopingpong\obj\Debug\letsgopingpong.exe
+C:\Users\Dzeki\Documents\Visual Studio 2015\Projects\ispit priprema jun\letsgopingpong\letsgopingpong\obj\Debug\letsgopingpong.pdb
+C:\Users\Dzeki\Documents\Visual Studio 2015\Projects\ispit priprema jun\letsgopingpong\letsgopingpong\bin\Debug\letsgopingpong.exe
+C:\Users\Dzeki\Documents\Visual Studio 2015\Projects\ispit priprema jun\letsgopingpong\letsgopingpong\bin\Debug\letsgopingpong.pdb
+C:\Users\Dzeki\Documents\Visual Studio 2015\Projects\ispit priprema jun\letsgopingpong\letsgopingpong\obj\Debug\letsgopingpong.csprojResolveAssemblyReference.cache
+C:\Users\Dzeki\Documents\Visual Studio 2015\Projects\ispit priprema jun\letsgopingpong\letsgopingpong\obj\Debug\letsgopingpong.Form1.resources
+C:\Users\Dzeki\Documents\Visual Studio 2015\Projects\ispit priprema jun\letsgopingpong\letsgopingpong\obj\Debug\letsgopingpong.Properties.Resources.resources
+C:\Users\Dzeki\Documents\Visual Studio 2015\Projects\ispit priprema jun\letsgopingpong\letsgopingpong\obj\Debug\letsgopingpong.csproj.GenerateResource.Cache
